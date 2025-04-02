@@ -41,13 +41,13 @@ let prompt = require("prompt-sync")();
 // console.log(c, d); // 20, 41
 
 //! calculate the area of a rectangle (l and b --> user)
-let length = prompt("enter the length: ");
-let l = parseInt(length);
-let breadth = prompt("enter the width: ");
-let b = parseInt(breadth);
+// let length = prompt("enter the length: ");
+// let l = parseInt(length);
+// let breadth = prompt("enter the width: ");
+// let b = parseInt(breadth);
 
 //? to convert string to numbers --> Number(), parseInt()
 // console.log(typeof l, typeof b);
-console.log(`area of the rectangle is: ${l * b}`);
+// console.log(`area of the rectangle is: ${l * b}`);
 
 // github.com/utk-281/programming_1030
