@@ -93,7 +93,4 @@ function convertToArray(str) {
   if (currentWord.length > 0) arr.push(currentWord);
   return arr;
 }
-console.log(convertToArray(" n       my     name    is utk and something      "));
-
-str = "hello";
-console.log(str[5]);
+// console.log(convertToArray(" n       my     name    is utk and something      "));
