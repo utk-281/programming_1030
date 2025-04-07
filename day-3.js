@@ -103,3 +103,8 @@ function capitalizeFirstLetter(str) {
 
 console.log(capitalizeFirstLetter("today is thursday"));
 console.log(capitalizeFirstLetter("   today is   thursday  "));
+
+// 14: 00 ==> 2 : 00 PM
+//! 01:30 PM ==> 13: 30
+//! 12:30 AM ==> 00 : 30
+//! 12:30 PM ==> 12 : 30
